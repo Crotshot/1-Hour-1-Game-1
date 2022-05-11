@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Level.unity
     guid: 9bbb76598f3d0cb4bb353f99097f03bd
+  - enabled: 1
+    path: Assets/Ninja_Star.unity
+    guid: 8c98169b576cc9f468a62ed77dc72abe
   m_configObjects: {}
